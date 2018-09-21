@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\css",
+    "\\css\\raw",
+    "\\css\\raw\\variants",
+    "\\scss",
+    "\\scss\\themes",
+    "\\scss\\themes\\build-variants"
+  ],
+  "SelectedNode": "\\scss\\themes\\build-variants\\dracula--styles.scss",
+  "PreviewInSolutionExplorer": false
+}

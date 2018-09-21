@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-dracula--main",
+      "appliesTo": "scss/themes/build-variants/dracula--main.scss",
+      "type": "launch"
+    }
+  ]
+}
